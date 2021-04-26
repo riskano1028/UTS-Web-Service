@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<catalog>
+   <foodorder id="bk101">
+      <menu>Fettucini Carbonara</menu>
+      <lokasi_merchant>Cimenyan 2</lokasi_merchant>
+      <lokasi_tujuan>Jl. Dewi Sartika</lokasi_tujuan>
+      <jarak>5km</jarak>
+      <nama_pemesan>Riska Nur</nama_pemesan>
+      <harga>20.000</harga>
+      <pembayaran>Dana</pembayaran>
+   </foodorder>
+  <foodorder id="bk102">
+      <menu>Burger chill</menu>
+      <lokasi_merchant>Banjarkolot</lokasi_merchant>
+      <lokasi_tujuan>Balokang</lokasi_tujuan>
+      <jarak>8km</jarak>
+      <nama_pemesan>Ridha M</nama_pemesan>
+      <harga>30.000</harga>
+      <pembayaran>BCA Mobile</pembayaran>
+   </foodorder>
+  <foodorder id="bk103">
+      <menu>Beef Steak</menu>
+      <lokasi_merchant>Balokang</lokasi_merchant>
+      <lokasi_tujuan>Cimenyan 2</lokasi_tujuan>
+      <jarak>3km</jarak>
+      <nama_pemesan>Alpan B</nama_pemesan>
+      <harga>60.000</harga>
+      <pembayaran>mandiri</pembayaran>
+   </foodorder>  
+  <foodorder id="bk104">
+      <menu>Chicken Steak</menu>
+      <lokasi_merchant>Jl. Dewi Sartika</lokasi_merchant>
+      <lokasi_tujuan>Balokang</lokasi_tujuan>
+      <jarak>9km</jarak>
+      <nama_pemesan>Riza M</nama_pemesan>
+      <harga>40.000</harga>
+      <pembayaran>gopay</pembayaran>
+   </foodorder>  
+  <foodorder id="bk105">
+      <menu>Kebab</menu>
+      <lokasi_merchant>Cimenyan 2</lokasi_merchant>
+      <lokasi_tujuan>Jl. Dewi Sartika</lokasi_tujuan>
+      <jarak>3km</jarak>
+      <nama_pemesan>Hartono</nama_pemesan>
+      <harga>35.000</harga>
+      <pembayaran>Shopee pay</pembayaran>
+   </foodorder>  
+  <foodorder id="bk106">
+      <menu>Chocolate oreo</menu>
+      <lokasi_merchant>Banjarkolot</lokasi_merchant>
+      <lokasi_tujuan>Cimenyan 2</lokasi_tujuan>
+      <jarak>2km</jarak>
+      <nama_pemesan>Niki Esa</nama_pemesan>
+      <harga>45.000</harga>
+      <pembayaran>BRI</pembayaran>
+   </foodorder>  
+  <foodorder id="bk107">
+      <menu>Lemon tea</menu>
+      <lokasi_merchant>Balokang</lokasi_merchant>
+      <lokasi_tujuan>Jl. Dewi Sartika</lokasi_tujuan>
+      <jarak>4km</jarak>
+      <nama_pemesan>Retni R</nama_pemesan>
+      <harga>34.000</harga>
+      <pembayaran>Gopay</pembayaran>
+   </foodorder>  
+  <foodorder id="bk108">
+      <menu>Mie nyemek</menu>
+      <lokasi_merchant>Jl. Dewi Sartika</lokasi_merchant>
+      <lokasi_tujuan>Balokang</lokasi_tujuan>
+      <jarak>2km</jarak>
+      <nama_pemesan>Nurcahyati</nama_pemesan>
+      <harga>25.000</harga>
+      <pembayaran>Dana</pembayaran>
+   </foodorder>  
+  <foodorder id="bk109">
+      <menu>Nasi goreng</menu>
+      <lokasi_merchant>Banjarkolot</lokasi_merchant>
+      <lokasi_tujuan>Jl. Dewi Sartika</lokasi_tujuan>
+      <jarak>6km</jarak>
+      <nama_pemesan>Alpan b</nama_pemesan>
+      <harga>27.000</harga>
+      <pembayaran>Go pay</pembayaran>
+   </foodorder>
+   
+</catalog>

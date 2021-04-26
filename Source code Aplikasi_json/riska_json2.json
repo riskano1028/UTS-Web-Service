@@ -1,0 +1,64 @@
+{
+  "boarding_pass" : [
+    {
+       "nama": "Riska Nur",
+       "seat": "1A",
+       "no_penerbangan": "308655678",
+       "from": "Jakarta",
+       "to": "Singapore",
+       "maskapai": "Riskano Airlines",
+       "class": "First class",
+       "date": "28/10/21"
+    },
+    {
+       "nama": "Muhammad Ridha",
+       "seat": "4A",
+       "no_penerbangan": "4488894037",
+       "from": "Jakarta",
+       "to": "Dubai",
+       "maskapai": "Arabian Airlines",
+       "class": "First class",
+       "date": "18/11/21"
+    },
+    {  
+	"nama": "Rifqi A.",
+       "seat": "6C",
+       "no_penerbangan": "467657768",
+       "from": "Jakarta",
+       "to": "London",
+       "maskapai": "Citylink",
+       "class": "Economy class",
+       "date": "4/25/21"
+    },
+    {
+       "nama": "Ridha M",
+       "seat": "5F",
+       "no_penerbangan": "34567678873",
+       "from": "Jakarta",
+       "to": "Papua",
+       "maskapai": "Garuda Indonesia",
+       "class": "Business class",
+       "date": "7/5/21"
+    },
+    {
+       "nama": "Riza M",
+       "seat": "10B",
+       "no_penerbangan": "308655678",
+       "from": "Jakarta",
+       "to": "Singapore",
+       "maskapai": "Riskano Airlines",
+       "class": "First class",
+       "date": "4/25/21"
+    },
+    {
+       "nama": "Niki Esa",
+       "seat": "2D",
+       "no_penerbangan": "5678656789",
+       "from": "Tasikmalaya",
+       "to": "Jakarta",
+       "maskapai": "Batik Air",
+       "class": "First class",
+       "date": "8/7/21"
+    }
+  ]
+}
